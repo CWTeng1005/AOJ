@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d659e64-3ab5-459a-afaa-062416408547" name="Changes" comment="" />
+    <list default="true" id="2d659e64-3ab5-459a-afaa-062416408547" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Introduction_to_Programming/ITP1_2_C_SortingThreeNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +42,7 @@
     "Python.ITP1_1_D.executor": "Run",
     "Python.ITP1_2_A_SmallLargeEqual.executor": "Run",
     "Python.ITP1_2_B_Range.executor": "Run",
+    "Python.ITP1_2_C_SortingThreeNumbers.executor": "Run",
     "Python.ITP1_3_A_PrintManyHelloWorld.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -73,6 +77,7 @@
       <workItem from="1749606532138" duration="404000" />
       <workItem from="1749607564036" duration="6088000" />
       <workItem from="1749631927125" duration="9036000" />
+      <workItem from="1749706965515" duration="10706000" />
     </task>
     <servers />
   </component>
@@ -85,6 +90,7 @@
     <SUITE FILE_PATH="coverage/AOJ$ITP1_2_A_SmallLargeEqual.coverage" NAME="ITP1_2_A_SmallLargeEqual Coverage Results" MODIFIED="1749614525913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction_to_Programming" />
     <SUITE FILE_PATH="coverage/AOJ$ITP1_3_A_PrintManyHelloWorld.coverage" NAME="ITP1_3_A_PrintManyHelloWorld Coverage Results" MODIFIED="1749632105808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction_to_Programming" />
     <SUITE FILE_PATH="coverage/AOJ$ITP1_2_B_Range.coverage" NAME="ITP1_2_B_Range Coverage Results" MODIFIED="1749614852817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction_to_Programming" />
+    <SUITE FILE_PATH="coverage/AOJ$ITP1_2_C_SortingThreeNumbers.coverage" NAME="ITP1_2_C_SortingThreeNumbers Coverage Results" MODIFIED="1749717827353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction_to_Programming" />
     <SUITE FILE_PATH="coverage/AOJ$DSL_1_A_Disjoint_Set.coverage" NAME="DSL_1_A_Disjoint_Set Coverage Results" MODIFIED="1749635694740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_Sets_and_Queries" />
     <SUITE FILE_PATH="coverage/AOJ$ITP1_1_D.coverage" NAME="ITP1_1_D Coverage Results" MODIFIED="1749612738943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction_to_Programming" />
   </component>
