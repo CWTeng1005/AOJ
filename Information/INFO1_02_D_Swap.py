@@ -11,4 +11,8 @@ def same(x, y):
 
 same(a, b)
 print(f"{a} {b}")
-print(f"{b} {a}")
+t_a = a
+t_b = b
+a = t_b
+b = t_a
+print(f"{a} {b}")
