@@ -31,46 +31,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.DSL_1_A_Disjoint_Set.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GRL_2_A_MinimumSpanningTree.executor&quot;: &quot;Run&quot;,
-    &quot;Python.INFO1_01_A_OutputOfAnInteger.executor&quot;: &quot;Run&quot;,
-    &quot;Python.INFO1_01_B_OutputOfAString.executor&quot;: &quot;Run&quot;,
-    &quot;Python.INFO1_01_C_OutputOfIntegers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.INFO1_01_D_NewLine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.INFO1_01_E_OutputOfIntegersWithNewLines.executor&quot;: &quot;Run&quot;,
-    &quot;Python.INFO1_02_A_Variable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.INFO1_02_B_Reassignment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.INFO1_02_C_TwoVariables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.INFO1_02_D_Swap.executor&quot;: &quot;Run&quot;,
-    &quot;Python.INFO1_03_A_Echo1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.INFO1_03_B_Echo2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.INFO1_03_C_Echo3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.INFO1_03_D_Echo4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.INFO1_03_E_Echo5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.INFO1_04_A_Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ITP1_1_C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ITP1_1_D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ITP1_2_A_SmallLargeEqual.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ITP1_2_B_Range.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ITP1_2_C_SortingThreeNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ITP1_3_A_PrintManyHelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ITP1_3_B_Print_Test_Cases.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/GITHUB/AOJ&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.DSL_1_A_Disjoint_Set.executor": "Run",
+    "Python.GRL_2_A_MinimumSpanningTree.executor": "Run",
+    "Python.INFO1_01_A_OutputOfAnInteger.executor": "Run",
+    "Python.INFO1_01_B_OutputOfAString.executor": "Run",
+    "Python.INFO1_01_C_OutputOfIntegers.executor": "Run",
+    "Python.INFO1_01_D_NewLine.executor": "Run",
+    "Python.INFO1_01_E_OutputOfIntegersWithNewLines.executor": "Run",
+    "Python.INFO1_02_A_Variable.executor": "Run",
+    "Python.INFO1_02_B_Reassignment.executor": "Run",
+    "Python.INFO1_02_C_TwoVariables.executor": "Run",
+    "Python.INFO1_02_D_Swap.executor": "Run",
+    "Python.INFO1_03_A_Echo1.executor": "Run",
+    "Python.INFO1_03_B_Echo2.executor": "Run",
+    "Python.INFO1_03_C_Echo3.executor": "Run",
+    "Python.INFO1_03_D_Echo4.executor": "Run",
+    "Python.INFO1_03_E_Echo5.executor": "Run",
+    "Python.INFO1_04_A_Sum.executor": "Run",
+    "Python.INFO1_04_B_Difference.executor": "Run",
+    "Python.INFO1_04_C_Product.executor": "Run",
+    "Python.ITP1_1_C.executor": "Run",
+    "Python.ITP1_1_D.executor": "Run",
+    "Python.ITP1_2_A_SmallLargeEqual.executor": "Run",
+    "Python.ITP1_2_B_Range.executor": "Run",
+    "Python.ITP1_2_C_SortingThreeNumbers.executor": "Run",
+    "Python.ITP1_3_A_PrintManyHelloWorld.executor": "Run",
+    "Python.ITP1_3_B_Print_Test_Cases.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/GITHUB/AOJ",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -99,7 +101,7 @@
       <workItem from="1750052963563" duration="2372000" />
       <workItem from="1750129856365" duration="1040000" />
       <workItem from="1750130922938" duration="61000" />
-      <workItem from="1750232987189" duration="306000" />
+      <workItem from="1750232987189" duration="629000" />
     </task>
     <servers />
   </component>
@@ -109,6 +111,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AOJ$INFO1_02_B_Reassignment.coverage" NAME="INFO1_02_B_Reassignment Coverage Results" MODIFIED="1750053669425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
     <SUITE FILE_PATH="coverage/AOJ$INFO1_02_C_TwoVariables.coverage" NAME="INFO1_02_C_TwoVariables Coverage Results" MODIFIED="1750054824839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
+    <SUITE FILE_PATH="coverage/AOJ$INFO1_04_C_Product.coverage" NAME="INFO1_04_C_Product Coverage Results" MODIFIED="1750233487522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
     <SUITE FILE_PATH="coverage/AOJ$INFO1_01_C_OutputOfIntegers.coverage" NAME="INFO1_01_C_OutputOfIntegers Coverage Results" MODIFIED="1749825882623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
     <SUITE FILE_PATH="coverage/AOJ$INFO1_03_D_Echo4.coverage" NAME="INFO1_03_D_Echo4 Coverage Results" MODIFIED="1750130541886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
     <SUITE FILE_PATH="coverage/AOJ$INFO1_04_A_Sum.coverage" NAME="INFO1_04_A_Sum Coverage Results" MODIFIED="1750130947362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
@@ -121,6 +124,7 @@
     <SUITE FILE_PATH="coverage/AOJ$INFO1_01_E_OutputOfIntegersWithNewLines.coverage" NAME="INFO1_01_E_OutputOfIntegersWithNewLines Coverage Results" MODIFIED="1749961333055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
     <SUITE FILE_PATH="coverage/AOJ$GRL_2_A_MinimumSpanningTree.coverage" NAME="GRL_2_A_MinimumSpanningTree Coverage Results" MODIFIED="1749640615676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph_Algorithms" />
     <SUITE FILE_PATH="coverage/AOJ$INFO1_03_A_Echo1.coverage" NAME="INFO1_03_A_Echo1 Coverage Results" MODIFIED="1750055276185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
+    <SUITE FILE_PATH="coverage/AOJ$INFO1_04_B_Difference.coverage" NAME="INFO1_04_B_Difference Coverage Results" MODIFIED="1750233365873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
     <SUITE FILE_PATH="coverage/AOJ$INFO1_02_D_Swap.coverage" NAME="INFO1_02_D_Swap Coverage Results" MODIFIED="1750054900206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
     <SUITE FILE_PATH="coverage/AOJ$ITP1_2_B_Range.coverage" NAME="ITP1_2_B_Range Coverage Results" MODIFIED="1749614852817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction_to_Programming" />
     <SUITE FILE_PATH="coverage/AOJ$INFO1_01_D_NewLine.coverage" NAME="INFO1_01_D_NewLine Coverage Results" MODIFIED="1749961098878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
@@ -130,6 +134,7 @@
     <SUITE FILE_PATH="coverage/AOJ$INFO1_01_A_OutputOfAnInteger.coverage" NAME="INFO1_01_A_OutputOfAnInteger Coverage Results" MODIFIED="1749800905710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
     <SUITE FILE_PATH="coverage/AOJ$ITP1_2_C_SortingThreeNumbers.coverage" NAME="ITP1_2_C_SortingThreeNumbers Coverage Results" MODIFIED="1749717827353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction_to_Programming" />
     <SUITE FILE_PATH="coverage/AOJ$DSL_1_A_Disjoint_Set.coverage" NAME="DSL_1_A_Disjoint_Set Coverage Results" MODIFIED="1749635694740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_Sets_and_Queries" />
+    <SUITE FILE_PATH="coverage/AOJ$INFO1_04_D_Quotient.coverage" NAME="INFO1_04_D_Quotient Coverage Results" MODIFIED="1750233654794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
     <SUITE FILE_PATH="coverage/AOJ$ITP1_1_D.coverage" NAME="ITP1_1_D Coverage Results" MODIFIED="1749612738943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction_to_Programming" />
   </component>
 </project>
