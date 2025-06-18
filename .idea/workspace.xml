@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d659e64-3ab5-459a-afaa-062416408547" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Information/INFO1_04_A_Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2d659e64-3ab5-459a-afaa-062416408547" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,46 +31,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.DSL_1_A_Disjoint_Set.executor": "Run",
-    "Python.GRL_2_A_MinimumSpanningTree.executor": "Run",
-    "Python.INFO1_01_A_OutputOfAnInteger.executor": "Run",
-    "Python.INFO1_01_B_OutputOfAString.executor": "Run",
-    "Python.INFO1_01_C_OutputOfIntegers.executor": "Run",
-    "Python.INFO1_01_D_NewLine.executor": "Run",
-    "Python.INFO1_01_E_OutputOfIntegersWithNewLines.executor": "Run",
-    "Python.INFO1_02_A_Variable.executor": "Run",
-    "Python.INFO1_02_B_Reassignment.executor": "Run",
-    "Python.INFO1_02_C_TwoVariables.executor": "Run",
-    "Python.INFO1_02_D_Swap.executor": "Run",
-    "Python.INFO1_03_A_Echo1.executor": "Run",
-    "Python.INFO1_03_B_Echo2.executor": "Run",
-    "Python.INFO1_03_C_Echo3.executor": "Run",
-    "Python.INFO1_03_D_Echo4.executor": "Run",
-    "Python.INFO1_03_E_Echo5.executor": "Run",
-    "Python.INFO1_04_A_Sum.executor": "Run",
-    "Python.ITP1_1_C.executor": "Run",
-    "Python.ITP1_1_D.executor": "Run",
-    "Python.ITP1_2_A_SmallLargeEqual.executor": "Run",
-    "Python.ITP1_2_B_Range.executor": "Run",
-    "Python.ITP1_2_C_SortingThreeNumbers.executor": "Run",
-    "Python.ITP1_3_A_PrintManyHelloWorld.executor": "Run",
-    "Python.ITP1_3_B_Print_Test_Cases.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/GITHUB/AOJ",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.DSL_1_A_Disjoint_Set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GRL_2_A_MinimumSpanningTree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.INFO1_01_A_OutputOfAnInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Python.INFO1_01_B_OutputOfAString.executor&quot;: &quot;Run&quot;,
+    &quot;Python.INFO1_01_C_OutputOfIntegers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.INFO1_01_D_NewLine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.INFO1_01_E_OutputOfIntegersWithNewLines.executor&quot;: &quot;Run&quot;,
+    &quot;Python.INFO1_02_A_Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.INFO1_02_B_Reassignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.INFO1_02_C_TwoVariables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.INFO1_02_D_Swap.executor&quot;: &quot;Run&quot;,
+    &quot;Python.INFO1_03_A_Echo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.INFO1_03_B_Echo2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.INFO1_03_C_Echo3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.INFO1_03_D_Echo4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.INFO1_03_E_Echo5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.INFO1_04_A_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ITP1_1_C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ITP1_1_D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ITP1_2_A_SmallLargeEqual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ITP1_2_B_Range.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ITP1_2_C_SortingThreeNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ITP1_3_A_PrintManyHelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ITP1_3_B_Print_Test_Cases.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GITHUB/AOJ&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -102,6 +99,7 @@
       <workItem from="1750052963563" duration="2372000" />
       <workItem from="1750129856365" duration="1040000" />
       <workItem from="1750130922938" duration="61000" />
+      <workItem from="1750232987189" duration="306000" />
     </task>
     <servers />
   </component>
