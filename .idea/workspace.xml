@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d659e64-3ab5-459a-afaa-062416408547" name="Changes" comment="" />
+    <list default="true" id="2d659e64-3ab5-459a-afaa-062416408547" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +54,7 @@
     "Python.INFO1_04_A_Sum.executor": "Run",
     "Python.INFO1_04_B_Difference.executor": "Run",
     "Python.INFO1_04_C_Product.executor": "Run",
+    "Python.INFO1_04_D_Quotient.executor": "Run",
     "Python.ITP1_1_C.executor": "Run",
     "Python.ITP1_1_D.executor": "Run",
     "Python.ITP1_2_A_SmallLargeEqual.executor": "Run",
@@ -101,7 +104,7 @@
       <workItem from="1750052963563" duration="2372000" />
       <workItem from="1750129856365" duration="1040000" />
       <workItem from="1750130922938" duration="61000" />
-      <workItem from="1750232987189" duration="629000" />
+      <workItem from="1750232987189" duration="2547000" />
     </task>
     <servers />
   </component>
