@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d659e64-3ab5-459a-afaa-062416408547" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Information/INFO1_04_G_Expression1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,8 @@
     "Python.INFO1_04_B_Difference.executor": "Run",
     "Python.INFO1_04_C_Product.executor": "Run",
     "Python.INFO1_04_D_Quotient.executor": "Run",
+    "Python.INFO1_04_E_Remainder.executor": "Run",
+    "Python.INFO1_04_F_TenthPower.executor": "Run",
     "Python.ITP1_1_C.executor": "Run",
     "Python.ITP1_1_D.executor": "Run",
     "Python.ITP1_2_A_SmallLargeEqual.executor": "Run",
@@ -104,7 +106,7 @@
       <workItem from="1750052963563" duration="2372000" />
       <workItem from="1750129856365" duration="1040000" />
       <workItem from="1750130922938" duration="61000" />
-      <workItem from="1750232987189" duration="2547000" />
+      <workItem from="1750232987189" duration="2856000" />
     </task>
     <servers />
   </component>
@@ -125,6 +127,7 @@
     <SUITE FILE_PATH="coverage/AOJ$ITP1_2_A_SmallLargeEqual.coverage" NAME="ITP1_2_A_SmallLargeEqual Coverage Results" MODIFIED="1749614525913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction_to_Programming" />
     <SUITE FILE_PATH="coverage/AOJ$ITP1_3_A_PrintManyHelloWorld.coverage" NAME="ITP1_3_A_PrintManyHelloWorld Coverage Results" MODIFIED="1749632105808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction_to_Programming" />
     <SUITE FILE_PATH="coverage/AOJ$INFO1_01_E_OutputOfIntegersWithNewLines.coverage" NAME="INFO1_01_E_OutputOfIntegersWithNewLines Coverage Results" MODIFIED="1749961333055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
+    <SUITE FILE_PATH="coverage/AOJ$INFO1_04_E_Remainder.coverage" NAME="INFO1_04_E_Remainder Coverage Results" MODIFIED="1750260779679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
     <SUITE FILE_PATH="coverage/AOJ$GRL_2_A_MinimumSpanningTree.coverage" NAME="GRL_2_A_MinimumSpanningTree Coverage Results" MODIFIED="1749640615676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph_Algorithms" />
     <SUITE FILE_PATH="coverage/AOJ$INFO1_03_A_Echo1.coverage" NAME="INFO1_03_A_Echo1 Coverage Results" MODIFIED="1750055276185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
     <SUITE FILE_PATH="coverage/AOJ$INFO1_04_B_Difference.coverage" NAME="INFO1_04_B_Difference Coverage Results" MODIFIED="1750233365873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
@@ -135,6 +138,7 @@
     <SUITE FILE_PATH="coverage/AOJ$INFO1_03_C_Echo3.coverage" NAME="INFO1_03_C_Echo3 Coverage Results" MODIFIED="1750130386198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
     <SUITE FILE_PATH="coverage/AOJ$ITP1_3_B_Print_Test_Cases.coverage" NAME="ITP1_3_B_Print_Test_Cases Coverage Results" MODIFIED="1749721782893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction_to_Programming" />
     <SUITE FILE_PATH="coverage/AOJ$INFO1_01_A_OutputOfAnInteger.coverage" NAME="INFO1_01_A_OutputOfAnInteger Coverage Results" MODIFIED="1749800905710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
+    <SUITE FILE_PATH="coverage/AOJ$INFO1_04_F_TenthPower.coverage" NAME="INFO1_04_F_TenthPower Coverage Results" MODIFIED="1750260877257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
     <SUITE FILE_PATH="coverage/AOJ$ITP1_2_C_SortingThreeNumbers.coverage" NAME="ITP1_2_C_SortingThreeNumbers Coverage Results" MODIFIED="1749717827353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction_to_Programming" />
     <SUITE FILE_PATH="coverage/AOJ$DSL_1_A_Disjoint_Set.coverage" NAME="DSL_1_A_Disjoint_Set Coverage Results" MODIFIED="1749635694740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_Sets_and_Queries" />
     <SUITE FILE_PATH="coverage/AOJ$INFO1_04_D_Quotient.coverage" NAME="INFO1_04_D_Quotient Coverage Results" MODIFIED="1750233654794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Information" />
