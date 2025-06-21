@@ -1,0 +1,5 @@
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+print(int((a == b and c == d) or (a == c and b == d)))
