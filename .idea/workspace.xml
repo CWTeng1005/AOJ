@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d659e64-3ab5-459a-afaa-062416408547" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Information/INFO1_06_LogicalOperation/INFO1_06_A_NOT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Information/INFO1_06_LogicalOperation/INFO1_06_B_AND.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Information/INFO1_06_LogicalOperation/INFO1_06_C_OR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Information/INFO1_06_LogicalOperation/INFO1_06_D_LogicalExpression1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Information/INFO1_06_LogicalOperation/INFO1_06_E_LogicalExpression2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Information/INFO1_06_LogicalOperation/INFO1_06_F_LogicalExpression3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Information/INFO1_07_Branch/INFO1_07_B_Branch2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +71,7 @@
     "Python.INFO1_06_D_LogicalExpression1.executor": "Run",
     "Python.INFO1_06_E_LogicalExpression2.executor": "Run",
     "Python.INFO1_06_F_LogicalExpression3.executor": "Run",
+    "Python.INFO1_07_A_Branch1.executor": "Run",
     "Python.ITP1_1_C.executor": "Run",
     "Python.ITP1_1_D.executor": "Run",
     "Python.ITP1_2_A_SmallLargeEqual.executor": "Run",
@@ -136,6 +131,7 @@
       <workItem from="1750387471987" duration="2625000" />
       <workItem from="1750405174317" duration="29000" />
       <workItem from="1750503930429" duration="1527000" />
+      <workItem from="1750603290780" duration="304000" />
     </task>
     <servers />
   </component>
